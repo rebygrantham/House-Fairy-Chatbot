@@ -6,6 +6,8 @@ Version: 0.1
 
  Platform: Scratch
  
+ [Try House Fairy on Scratch](https://scratch.mit.edu/projects/1366077578/)
+ 
  Project Type: Learning chatbot prototype
 
 ![House Fairy chatbot demo](house-fairy-screenshot.png)
