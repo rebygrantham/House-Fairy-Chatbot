@@ -7,6 +7,9 @@ Version: 0.1
  Platform: Scratch
  
  Project Type: Learning chatbot prototype
+
+![House Fairy chatbot demo](house-fairy-screenshot.png)
+
  
 About the Project:
 House Fairy is a simple chatbot that can be taught new question-and-answer pairs by the user.
